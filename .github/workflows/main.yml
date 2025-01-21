@@ -1,6 +1,6 @@
+// C'est du C sur edi arduino pour PI Pico
 
-
-
+name: 
 // 
 const uint16_t AF1 = 0, AF2 = 01, AF3 = 0;   // Affichage de variables pour vérification de fonctionnement
 const uint16_t AT1 = 250;                   // Attente après allumage des leds
